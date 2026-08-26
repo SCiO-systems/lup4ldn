@@ -8,7 +8,7 @@ transition scenarios, identify restoration priorities, and evaluate the
 suitability of sustainable land-management interventions in support of Land
 Degradation Neutrality (LDN, SDG Indicator 15.3.1).
 
-🌐 Live tool: **https://www.landusetool.org/**
+🌐 Live tool: **https://app.landusetool.org/#/**
 
 ## Origin
 
