@@ -50,7 +50,7 @@ the API the frontend consumes), then the frontend with its
 | v1.1 | 9 May 2022 | Incorporated further team feedback ahead of the tool's presentation at UNCCD COP15 (Abidjan, Côte d'Ivoire). |
 
 v1.1 reflects the code currently deployed at
-[landusetool.org](https://www.landusetool.org/).
+[landusetool.org](https://app.landusetool.org/#/).
 
 ## License
 
