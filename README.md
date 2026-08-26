@@ -15,7 +15,7 @@ Degradation Neutrality (LDN, SDG Indicator 15.3.1).
 LUP4LDN won the **GEO-LDN International Technology Innovation Competition**
 in 2021 ([UNCCD announcement](https://www.unccd.int/news-events/geo-ldn-competition-winner-announced)),
 developed by a multi-institutional team led by **SCiO**, with contributions
-from ICARDA, the University of Sassari, WOCAT and the ELD Initiative. SCiO
+from ICARDA, Prof. Claudio Zucca, WOCAT and the ELD Initiative. SCiO
 has continuously maintained and operationally supported LUP4LDN since the
 award.
 
