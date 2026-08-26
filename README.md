@@ -8,14 +8,14 @@ transition scenarios, identify restoration priorities, and evaluate the
 suitability of sustainable land-management interventions in support of Land
 Degradation Neutrality (LDN, SDG Indicator 15.3.1).
 
-🌐 Live tool: **https://app.landusetool.org/#/**
+🌐 Live tool: **https://www.landusetool.org/**
 
 ## Origin
 
 LUP4LDN won the **GEO-LDN International Technology Innovation Competition**
 in 2021 ([UNCCD announcement](https://www.unccd.int/news-events/geo-ldn-competition-winner-announced)),
 developed by a multi-institutional team led by **SCiO**, with contributions
-from ICARDA, Prof. Claudio Zucca, WOCAT and the ELD Initiative. SCiO
+from ICARDA, the University of Sassari, WOCAT and the ELD Initiative. SCiO
 has continuously maintained and operationally supported LUP4LDN since the
 award.
 
@@ -41,6 +41,16 @@ Each component repository has its own README with setup and deployment
 instructions. To run LUP4LDN locally, start the backend first (it exposes
 the API the frontend consumes), then the frontend with its
 `REACT_APP_API_BASE_URL` pointed at your local backend.
+
+## Releases
+
+| Version | Date | Notes |
+|---|---|---|
+| v1.0 | 28 March 2022 | Official launch, following the Tunisia and Burkina Faso pilots. |
+| v1.1 | 9 May 2022 | Incorporated further team feedback ahead of the tool's presentation at UNCCD COP15 (Abidjan, Côte d'Ivoire). |
+
+v1.1 reflects the code currently deployed at
+[landusetool.org](https://www.landusetool.org/).
 
 ## License
 
