@@ -57,6 +57,17 @@ v1.1 reflects the code currently deployed at
 LUP4LDN is open-source software, licensed under the
 **GNU General Public License v3.0** — see `LICENSE` in each repository.
 
+## Name and logo
+
+The code in this repository is licensed under **GPL-3.0** (see `LICENSE`). That
+licence covers the **code only**.
+
+**"LUP4LDN" and the LUP4LDN logo are trademarks of SCiO P.C.** and are **not**
+licensed under the GPL. If you fork or redistribute a modified version, you must
+give it a **different name** and must **not** use the LUP4LDN name or logo.
+
+See [`TRADEMARK.md`](./TRADEMARK.md) for details.
+
 ## Use and recognition
 
 - Featured in the UNCCD Science-Policy Interface report on Integrated Land
